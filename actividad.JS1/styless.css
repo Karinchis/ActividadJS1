@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+    width: 100px;
+    height: 600px;
+    width: 1150px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+    
+    }
+
+label {
+    color: darkred;
+    font-size: medium;
+}
+h1 {
+  
+  font-family: Verdana;
+}
+
+legend{
+    font-size: 25px;
+    
+}
